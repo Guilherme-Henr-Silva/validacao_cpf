@@ -49,7 +49,7 @@ label{
     display: none;
 }
 
-.message.succes{
+.message.success{
     background-color: #d4edda;
     color: #155724;
 }
